@@ -1,0 +1,14 @@
+#Conversión de double a int.
+
+EJERCICIO 8.
+    Declares a double variable resultand sets it to 5.65
+    Declares a int variable grade
+    Assigns the value of result to grade using implicit casting
+    Prints the value of grade with the message "The grade is: " using printf
+
+## Lo aprendido:
+- Declaración de una variable double con decimales.
+- Asignación directa de un double a un int, lo que provoca una conversión implícita.
+- El valor decimal no se redondea (5.65 se convierte en 5).
+- Al mezclar tipos, el compilador convierte sin preguntar ni avisar.
+- A tener en cuenta : - char → int → long → float → doublé +

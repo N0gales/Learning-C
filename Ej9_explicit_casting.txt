@@ -1,0 +1,14 @@
+#Explicit casting 
+
+EJERCICIO 9.
+    Declares a double variable named temperature and assigns it a value of 98.6.
+    Uses explicit type casting to convert temperature to an integer and stores it in a variable named whole_part.
+    Prints the original temperature and the whole part on separate lines.
+
+Example output:
+
+Original temperature: 98.6 Whole part: 98
+
+## Lo aprendido:
+- Conversión explícita (casting) de double a int para borrar la parte decimal sin redondeo.
+- Conversión implícita al asignar un double a un int sin casting, con pérdida sin aviso de la parte decimal.

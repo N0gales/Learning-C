@@ -1,0 +1,25 @@
+# Operadores de asignación compuesta (+=, -=, etc.)
+
+EJERCICIO 16.    
+Write a C program that demonstrates the use of assignment operators. Your program should:
+
+    Declare an integer variable num and initialize it with the value 10.
+    Use the += operator to add 5 to num.
+    Use the -= operator to subtract 3 from num.
+    Use the *= operator to multiply num by 2.
+    Use the /= operator to divide num by 3.
+    Use the %= operator to get the remainder of num divided by 4.
+
+After each operation, print the value of num using printf() in the following format:
+
+After += 5: [value]
+After -= 3: [value]
+After *= 2: [value]
+After /= 3: [value]
+After %= 4: [value]
+
+
+## Lo aprendido:
+- Uso de operadores compuestos como +=, -=, etc.
+- Uso de cómo y cuándo imprimir para ver el estado real de una variable.
+- Como lograr que en printf() aparezca "%".

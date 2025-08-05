@@ -1,0 +1,16 @@
+# Operadores de aumento y disminución.
+
+EJERCICIO 15.    
+1.	Declares an integer variable called number with an initial value of 10
+2.	Uses the prefix increment operator to increase number by 1 and assigns the result to a variable called prefixResult
+3.	Uses the postfix increment operator on number and assigns the result to a variable called postfixResult
+4.	Prints the final value of number, prefixResult, and postfixResult in this exact format:
+Number: [value]
+Prefix result: [value]
+Postfix result: [value]
+
+
+## Lo aprendido:
+- Uso del operador de incremento prefijo ++number, que primero incrementa y luego asigna.
+- Uso del operador de incremento postfijo number++, que primero asigna y luego incrementa.
+- Diferencias de comportamiento entre prefijo y postfijo en una misma ejecución.

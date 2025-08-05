@@ -1,0 +1,13 @@
+#Manejo de char y uso de %c.
+
+EJERCICIO 3.
+    Declares a character variable named symbol
+    Assigns the character '@' to this variable
+    Prints the message "The symbol is: @" where @ is the value of your variable
+
+## Lo aprendido:
+- Declaración de una variable de tipo char para almacenar un carácter.
+- Asignación de un símbolo usando comillas simples ('@').
+- Uso de formato %c para mostrar un carácter.
+- printf permite combinar texto y valores de variables en la misma línea.
+- Los caracteres individuales siempre van entre comillas simples.

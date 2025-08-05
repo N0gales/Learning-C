@@ -1,0 +1,11 @@
+#Definición de constantes.
+
+EJERCICIO 6.
+    Define a constant PI with the value 3.14159
+    Calculate the area of the circle using the formula: area = PI * radius * radius
+    Print the calculated area with exactly 2 decimal places in the format: "Area: X.XX"
+
+## Lo aprendido:
+- Uso de #define para declarar una constante simbólica (PI), #define no lleva = ni ;, ya que es una sustitución textual, no una asignación
+- Declaración y uso de variables tipo int y float
+- Importancia de diferenciar entre formato de anchura (%2f) y formato de precisión (%.2f)

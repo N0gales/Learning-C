@@ -1,0 +1,15 @@
+#Cálculo de variables y operaciones de potencia.
+
+EJERCICIO 2.
+    Declares a float variable called radius
+    Declares double variables called pi, volume
+    Sets pi to 3.14159
+    Sets radius to 1.5
+    Calculates the volume of a sphere using the formula: volume = (4.0/3.0) * pi * radius³
+    Prints the result with 2 decimal places in the format: “The volume of a sphere with radius [radius] is [volume] cubic units”
+
+## Lo aprendido:
+- Conocimiento de la librería math.h.
+- Aplicación de una fórmula matemática con múltiples operaciones en una sola línea.
+- Uso de printf con %.2f para limitar la salida a dos decimales.
+- La precisión del tipo float puede afectar el resultado en operaciones más complejas.

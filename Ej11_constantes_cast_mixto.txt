@@ -1,0 +1,25 @@
+# Manejo de múltiples tipos, constantes y casting explícito.
+
+EJERCICIO 11.
+    Declares and initializes:
+        An integer variable age with value 25
+        A float variable price with value 19.99
+        A character variable grade with value 'A'
+        A constant MAX_SCORE with value 100 using #define
+    Calculate:
+        The price after a 15% discount and store it in a variable discounted_price
+        Convert the discount price to an integer using explicit casting, and store as rounded_price
+    Print each variable with appropriate labels:
+        Age: 25
+        Price: $19.99
+        Discounted Price: $16.99
+        Rounded Price: $16
+        Grade: A
+        Max Score: 100
+
+Make sure to format floating-point numbers to show exactly 2 decimal places.
+
+## Lo aprendido:
+- Aplicación de una operación aritmética con porcentaje de descuento.
+- Uso de variables intermedias para almacenar resultados
+- Conversión explícita de float a int.

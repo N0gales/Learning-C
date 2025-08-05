@@ -1,0 +1,19 @@
+#Declaración de variables y operaciones aritméticas básicas
+
+EJERCICIO 1.
+Declares a float variable named celsius
+Declares a double variable named fahrenheit
+Assigns the value 25.0 to celsius
+Converts celsius to fahrenheit using the formula: fahrenheit = (celsius * 9.0/5.0) + 32.0
+Prints the result as "25.0 degrees Celsius is equal to 77.0 degrees Fahrenheit"
+
+## Lo aprendido:
+- Uso de la librería estándar con `#include <stdio.h>`
+- La función `int main()` como punto de entrada del programa
+- Declaración de variables especificando su tipo (`float`, `double`, etc.)
+- Toda variable debe ser declarada antes de usarse
+- Cada sentencia debe terminar con `;`
+- Uso de `printf` para mostrar información por pantalla
+- Se emplean especificadores de formato (`%f`, `%d`, etc.) según el tipo de dato
+- Después de las comillas en `printf`, se pasan las variables que completan el formato
+- `return 0;` indica que el programa terminó correctamente

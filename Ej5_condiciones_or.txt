@@ -1,0 +1,13 @@
+#Operadores OR entre condiciones.
+
+EJERCICIO 5.
+    Define an age variable and set it to 65
+    Define an isMember variable and set it to 0 (false)
+    Create a boolean expression called isEligible that evaluates to true if either: 
+        The person is a senior (age 65 or older), OR
+        The person is a member
+    Print the result of whether the person is eligible for a discount.
+
+## Lo aprendido:
+- Uso de OR (||) para combinar condiciones.
+- Comprensión de que || devuelve 1 si al menos una condición es verdadera

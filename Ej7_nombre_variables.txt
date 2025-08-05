@@ -1,0 +1,14 @@
+#Nombre de variables.
+
+EJERCICIO 7.
+Write a program that declares and initializes two variables with valid names according to C naming rules. 
+The first variable should be an integer named "userAge" set to 25. The second variable should be a float named "item_price" set to 9.99. 
+Then print both variables using printf in the following format:
+
+User age: 25
+Item price: 9.99
+
+## Lo aprendido:
+- Reglas de nomenclatura de variables (letras, guiones bajos, sin espacios ni empezar por número)
+- Uso de printf para mostrar un valor entero con %d y uno decimal con %.2f
+- Uso del carácter \n para salto de línea entre impresiones

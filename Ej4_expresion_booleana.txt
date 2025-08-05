@@ -1,0 +1,11 @@
+#Verificación de condiciones con operadores booleanos.
+
+EJERCICIO 4.
+Set the age variable to 16. Then, create a program that checks whether the person is old enough to drive (age 18 or older).
+Store the result (either 0 for false or 1 for true) in a variable called canDrive, and print both the age and the result.
+
+## Lo aprendido:
+- Uso del operador >= para comparar valores.
+- Una expresión (age >= 18) devuelve 1 (verdadero) o 0 (falso) y se puede guardar en una variable.
+- Se practica el uso de printf para mostrar múltiples variables
+- \n se usa para saltar de línea en la salida por consola.

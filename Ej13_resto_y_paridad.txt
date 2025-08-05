@@ -1,0 +1,16 @@
+# Operador módulo y paridad.
+
+EJERCICIO 13.    
+Declare an integer variable number and initialize it with the value 17.
+    Use the modulo operator to calculate the remainder when number is divided by 5, and store the result in a variable called remainder.
+    Use the modulo operator to determine if number is even or odd (remember booleans)
+    Print the results using printf() in the following format:
+
+Number: [value of number]
+Remainder when divided by 5: [value of remainder]
+[number] is even? [1 for even, 0 for odd]
+
+## Lo aprendido:
+- El operador % (módulo) devuelve el resto de una división.
+- Para saber si un número es par o impar, se usa:
+número % 2 == 0 → si da true (1), es par; si no, es impar.
