@@ -1,4 +1,4 @@
-#Conversión de double a int.
+#Implicit casting.
 
 EJERCICIO 8.
     Declares a double variable resultand sets it to 5.65
@@ -12,3 +12,4 @@ EJERCICIO 8.
 - El valor decimal no se redondea (5.65 se convierte en 5).
 - Al mezclar tipos, el compilador convierte sin preguntar ni avisar.
 - A tener en cuenta : - char → int → long → float → doublé +
+
