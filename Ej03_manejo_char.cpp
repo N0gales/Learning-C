@@ -1,4 +1,4 @@
-#include <stdio.h> //Header y llamada a librería
+#include <stdio.h> //Header y llamada a librerÃ­a
 
 int main() { //Llamada a main es decir la ejecucion
     char symbol; // Definicion de variable
