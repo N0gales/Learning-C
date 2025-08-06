@@ -21,15 +21,15 @@ Este repositorio contiene una colección de ejercicios resueltos en lenguaje C c
 Ejercicios-c/
 ├── README.md
 ├── ejercicios/
-│   ├── Ej1_declaracion_variable.c
-│   ├── Ej2_calculo_variables.c
-│   ├── Ej3_manejo_char.c
-│   ├── Ej4_expresion_booleana.c
-│   ├── Ej5_condiciones_or.c
-│   ├── Ej6_definicion_constantes.c
-│   ├── Ej7_nombre_variables.c
-│   ├── Ej8_implicit_casting.c
-│   ├── Ej9_explicit_casting.c
+│   ├── Ej01_declaracion_variable.c
+│   ├── Ej02_calculo_variables.c
+│   ├── Ej03_manejo_char.c
+│   ├── Ej04_expresion_booleana.c
+│   ├── Ej05_condiciones_or.c
+│   ├── Ej06_definicion_constantes.c
+│   ├── Ej07_nombre_variables.c
+│   ├── Ej08_implicit_casting.c
+│   ├── Ej09_explicit_casting.c
 │   ├── Ej10_conversiones_datos.c
 │   ├── Ej11_constantes_cast_mixto.c
 │   ├── Ej12_operaciones_enteras.c
