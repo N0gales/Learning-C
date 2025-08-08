@@ -1,0 +1,15 @@
+#Clasificación por edad, múltiples condiciones.
+
+EJERCICIO 26.    
+Write a program that classifies a person based on their age:
+
+    If age is less than 13: "Child"
+    If age is between 13 and 19: "Teenager"
+    If age is between 20 and 64: "Adult"
+    If age is 65 or older: "Senior"
+
+Read an integer value from standard input and print the corresponding classification exactly as shown above.
+
+## Lo aprendido:
+- Uso de sentencias if-else if-else para múltiples condiciones.
+- Tener en cuenta cuando se utilizan {}

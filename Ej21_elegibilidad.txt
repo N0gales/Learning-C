@@ -1,0 +1,20 @@
+#Verificación de elegibilidad para beca
+
+EJERCICIO 21.    
+Create a program that determines if a student can apply for a scholarship.
+
+Criteria for eligibility:
+
+    The student has a GPA of 3.5 or higher OR has recommendations
+    The student must have completed at least 60 credit hours
+    The student must NOT have any academic violations
+
+Implement the function checkEligibility that evaluates these conditions using logical operators and prints the appropriate message.
+
+
+## Lo aprendido:
+- Cómo estructurar una función que evalúa condiciones y devuelve un resultado que main usa para decidir la salida.
+-Combinar condiciones con || (OR) y && (AND) y a respetar paréntesis para claridad.
+- La diferencia entre imprimir dentro de la función y devolver un valor para que main haga la impresión.
+- Tener cuidado al declarar una variable con el mismo nombre que la función.
+- No usar return en una función que debe devolver int.

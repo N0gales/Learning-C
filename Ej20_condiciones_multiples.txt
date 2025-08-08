@@ -1,0 +1,27 @@
+#Evaluación de condiciones múltiples para energía solar
+
+EJERCICIO 20.    
+Initialize these variables:
+
+    isSunny with the value 1 (true)
+    windSpeed with the value 5.4
+    temperature with the value 23
+    solarPanelOutput with the value 9
+    isCloudy with the value 0 (false)
+
+Create one logical expression that checks ALL of these conditions:
+
+    It's sunny
+    The wind speed is less than 10
+    The solar panel output is less than 15
+    The temperature is above 20 OR there are no clouds
+
+Print "Good day for solar energy" if all conditions are met, otherwise print "Not ideal for solar energy".
+
+
+## Lo aprendido:
+- 0 equivale a false y cualquier valor distinto de 0 equivale a true.
+- Priorizar operaciones con paréntesis para que la lógica se evalúe correctamente.
+- Traducir condiciones en lenguaje natural a expresiones booleanas.
+- Confundí el operador >= con =>, lo que generaba un error de compilación.
+- Usar isCloudy == 1 cuando la condición pedía “no hay nubes” (isCloudy == 0).

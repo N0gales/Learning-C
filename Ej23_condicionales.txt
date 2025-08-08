@@ -1,0 +1,14 @@
+#Sentencias condicionales con if
+
+EJERCICIO 23.    
+Here’s the task:
+
+    Create an int variable called temperature and set it to any value you like (for example, 35).
+    Use if statements to print messages based on the value of temperature:
+        If the temperature is above 30, print "It's a hot day!"
+        If the temperature is between 20 and 30 (inclusive), print "The weather is nice."
+        If the temperature is below 20, print "It's a bit cold today."
+
+## Lo aprendido:
+- Uso básico de sentencias if para control de flujo.
+- Tener en cuenta que no se solapen condiciones.

@@ -1,0 +1,21 @@
+#Condicional simple para aprobar o suspender
+
+EJERCICIO 24.    
+    Reads an integer representing a student's score from the user
+    If the score is greater than or equal to 60, prints "Pass"
+    Otherwise, prints "Fail"
+
+#include <stdio.h>
+
+int main() {
+    int score;
+    scanf("%d", &score);
+    // Don't change above this line
+    
+    // Write your code here
+    
+    return 0;
+}
+
+## Lo aprendido:
+- Uso básico de sentencias if-else, if para enunciar algo si es así y else se utiliza si el if no es verdadero.

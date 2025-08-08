@@ -1,0 +1,12 @@
+# Negación de comparación: suma vs producto
+
+EJERCICIO 19.    
+You need to assign integer values to variables b1 and b2 so that b3 evaluates to 1 (true) in the expression: int b3 = !((b1 + b2) > (b1 * b2));
+
+Take a moment to analyze the condition and think about what values would make it true.
+
+
+## Lo aprendido:
+- El operador de negación lógica ! invierte el valor booleano: convierte true en false y false en true (en C: 1 ↔ 0).
+- La comparación (b1 + b2) > (b1 * b2) evalúa primero la suma y el producto, luego compara: el resultado será 1 si la comparación es verdadera y 0 si es falsa.
+- Para que b3 sea 1, la comparación dentro del ! debe ser falsa — es decir, debe cumplirse que (b1 + b2) NO sea mayor que (b1 * b2).

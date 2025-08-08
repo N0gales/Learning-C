@@ -1,0 +1,11 @@
+# Comparación de variables y almacenamiento de resultado booleano
+
+EJERCICIO 17.    
+Write a program that initializes 2 variables n1 and n2 with the values 8 and 9 (accordingly).
+After that initialize another variable n3 that will hold whether n1 is greater than n2.
+Print the values of all three variables using printf() in the following format:
+n1 = [value of n1], n2 = [value of n2], n3 = [value of n3]
+
+## Lo aprendido:
+- Uso de operadores relacionales (>) para comparar valores
+- Las comparaciones devuelven 1 si la condición es verdadera y 0 si es falsa

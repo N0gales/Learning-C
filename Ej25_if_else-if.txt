@@ -1,0 +1,17 @@
+#Conversión de temperatura y condicionales
+
+EJERCICIO 25.    
+    Write a program that takes a temperature value and a character ('C' or 'F') indicating the scale. Based on the Celsius temperature, print one of the following messages:
+
+    If temperature < 0°C: "Freezing"
+    If temperature is between 0°C and 20°C: "Cold"
+    If temperature is between 21°C and 30°C: "Pleasant"
+    If temperature > 30°C: "Hot"
+
+If the input is in Fahrenheit, convert it to Celsius first using the formula: C = (F - 32) * 5/9.
+
+Print the message exactly as shown above based on the temperature.
+
+## Lo aprendido:
+- Uso de espacio antes de " %c" para evitar leer caracteres basura.
+- Importancia de convertir la temperatura a una única escala antes de hacer comparaciones.

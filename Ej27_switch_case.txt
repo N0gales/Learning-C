@@ -1,0 +1,22 @@
+EJERCICIO 27 - Uso de switch y agrupación de casos
+---------------------------------------------------
+Enunciado:
+Write a program that uses a switch statement to convert a numeric grade to a letter grade as follows:
+    90-100: 'A'
+    80-89: 'B'
+    70-79: 'C'
+    60-69: 'D'
+    Below 60: 'F'
+Your program should read a numeric grade (0-100) and print the corresponding letter grade. Use integer division by 10 to categorize the grades.
+
+Lo aprendido:
+- El switch compara el valor exacto que le paso (en este caso `decena`), no el valor original.
+- Puedo agrupar varios `case` para que ejecuten el mismo código (por ejemplo `case 10:` y `case 9:` para las notas A).
+- Si no pongo `break`, el flujo continúa hacia abajo (*fall through*).
+- Usar `grade / 10` simplifica la categorización de rangos sin tener que usar comparaciones complejas.
+
+Errores comunes que tuve:
+- Intentar usar condiciones (`>=`, `<=`) dentro de los `case`, lo cual no es válido.
+- Confundir el valor que evalúa el switch (estaba pensando en `grade` en lugar de `decena`).
+- No entender que `case` necesita un valor constante.
+

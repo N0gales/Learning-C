@@ -1,0 +1,14 @@
+# Operador lógico OR (||) y valores booleanos.
+
+EJERCICIO 18.    
+You are given code. Replace the question marks of the variables int b1 and int b2 so that int b3 holds 1 (true).
+
+Take a moment to analyze the condition and think about what values would make it true.
+
+    There are many right solutions!
+
+## Lo aprendido:
+- Las expresiones lógicas producen 1 (true) o 0 (false) cuando se usan con operadores como ||.
+- La convención importante: 0 se considera false, cualquier valor distinto de 0 se considera true.
+- El operador lógico OR (||) devolverá 1 si al menos uno de sus operandos es verdadero (no nulo); devolverá 0 solo si ambos son 0.
+- Es habitual almacenar el resultado de una expresión lógica en una variable int (el valor será 1 o 0).

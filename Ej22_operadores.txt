@@ -1,0 +1,33 @@
+#Operadores aritméticos y lógicos
+
+EJERCICIO 22.    
+Let's create a program that uses various operators we've learned:
+
+    Declare and initialize two integer variables: num1 to 25 and num2 to 7.
+    Calculate the following values:
+        The sum of num1 and num2
+        The difference between num1 and num2
+        The product of num1 and num2
+        The quotient when dividing num1 by num2
+        The remainder when dividing num1 by num2
+
+    Print the results in the format:
+
+    num1 = 25, num2 = 7
+    Sum: 32
+    Difference: 18
+    Product: 175
+    Quotient: 3
+    Remainder: 4
+
+    Check if num1 is greater than num2 AND the remainder when dividing num1 by 2 is 1 (i.e., if num1 is odd). Store the result in a variable called result1.
+    Check if num2 is less than 10 OR num1 is even. Store the result in a variable called result2.
+
+    Print the logical operation results in the format:
+
+    result1: 1
+    result2: 1
+
+## Lo aprendido:
+- Recordar el uso de operadores aritméticos: sum = +, difference = -,product = *,quotient = /,remainder = %.
+- Tener cuidado con confundir la división / con módulo % para comprobar paridad.
