@@ -1,6 +1,7 @@
 # 🧠 Ejercicios en lenguaje C — by N0gales
 
-Este repositorio contiene una colección de ejercicios resueltos en lenguaje C como parte de mi aprendizaje y preparación para la piscina de **Campus 42** y mi formación en programación.
+Este repositorio contiene una colección de ejercicios resueltos en lenguaje C como parte de mi aprendizaje y preparación para la piscina de **Campus 42** y mi formación en programación. 
+EJERCICIOS Y TEMARIO APRENDIDO DE CODDY.TECH
 
 ---
 
@@ -37,3 +38,14 @@ Ejercicios-c/
 │   ├── Ej14_entrada_condicionales.c
 │   ├── Ej15_incremento_prefix_postfix.c
 │   ├── Ej16_operadores_asignacion.c
+│   ├── Ej17_comparacion_variables.c
+│   ├── Ej18_operadores_logicos.c
+│   ├── Ej19_negacion_comparacion.c
+│   ├── Ej20_condiciones_multiples.c
+│   ├── Ej21_elegibilidad.c
+│   ├── Ej22_operadores.c
+│   ├── Ej23_condicionales.c
+│   ├── Ej24_if_else.c
+│   ├── Ej25_if_else-if.c
+│   ├── Ej26_multiples_condiciones.c
+│   ├── Ej27_switch_case.c
