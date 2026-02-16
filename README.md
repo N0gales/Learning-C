@@ -79,7 +79,8 @@ Learning-C/
     ├── Ej25_if_else_if.c
     ├── Ej26_multiples_condiciones.c
     ├── Ej27_switch_case.c
-
+```
+---
 ## 🧪 Cómo compilar y ejecutar
 
 Puedes compilar cualquier ejercicio utilizando `gcc`:
@@ -87,17 +88,26 @@ Puedes compilar cualquier ejercicio utilizando `gcc`:
 ```bash
 gcc Ej01_declaracion_variable.c -o programa
 ./programa
+```
 
-Si el archivo se encuentra dentro de la carpeta ejercicios/:
+Si el archivo se encuentra dentro de la carpeta `ejercicios/`:
+
+```bash
 cd ejercicios
 gcc Ej01_declaracion_variable.c -o programa
 ./programa
+```
 
-Requisitos:
-Sistema Linux o entorno compatible
-Compilador GCC instalado
+### Requisitos
+
+- Sistema Linux o entorno compatible
+- Compilador GCC instalado
+
 Puedes comprobar si tienes GCC instalado con:
+
+```bash
 gcc --version
+```
 
 ## 📈 Enfoque de aprendizaje
 
@@ -114,7 +124,7 @@ Los comentarios dentro del código y los archivos `.txt` reflejan el razonamient
 
 ## 🚀 Próximos pasos
 
-Este repositorio seguirá creciendo hacia:
+Este repositorio seguirá evolucionando hacia:
 
 - Manejo avanzado de punteros
 - Estructuras de datos
@@ -133,11 +143,11 @@ El dominio de C fortalece la comprensión de:
 - Control de flujo y ejecución
 - Errores comunes que derivan en vulnerabilidades
 
-Conceptos relacionados con:
+Conceptos directamente relacionados con:
 
 - Buffer overflows
 - Uso incorrecto de punteros
 - Desbordamientos de pila
 - Gestión insegura de memoria dinámica
 
-Comprender C desde la base permite entender mejor cómo funcionan las vulnerabilidades clásicas y cómo prevenirlas.
+Comprender C desde la base permite entender mejor cómo funcionan vulnerabilidades clásicas y cómo prevenirlas.
